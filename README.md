@@ -18,4 +18,4 @@ Cloud type classification system that:
 2. Creates a dataset with data augmentation and train/validation split
 3. Trains a ResNet34 model using transfer learning
 4. Evaluates performance with confusion matrix and top losses visualization
-5. Exports trained model for inference on new cloud images# Cloud-Type-Classifier
+5. Exports trained model for inference on new cloud images
